@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/likx22">KunXiu Li</a> </h1>
 
 <!--
 **likx22/likx22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
