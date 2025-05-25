@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/likx22">KunXiu Li</a> </h1>
+<h1 align="center">Hi! I am  <a href="https://github.com/likx22">KunXiu Li</a> </h1>
 
-- 🔭 I’m currently studying in School of Software, Tsinghua University (THSS) from 2022Fall
+- I’m currently studying in School of Software, Tsinghua University (THSS) from 2022Fall
 
-
+郑重声明：
+仓库中所有代码谨为记录曾经无数个深夜拼搏在大作业上的自己。
+如果对您的学习思路有帮助，我会很高兴，因为你和当初迷茫在大作业中的我也许很像，但请不要抄袭，切记！
