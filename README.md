@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I am  <a href="https://github.com/likx22">KunXiu Li</a> </h1>
 
 - I’m currently studying in School of Software, Tsinghua University (THSS)  from 2022Fall
--
+
 - typical INTJ
 
 郑重声明：
@@ -12,7 +12,7 @@
 
 Declaration:
 
-All the code is merely a record of myself struggling with homeworks during countless late nights.
+All the code is a record of myself struggling with homeworks during countless late nights.
 
-If it helps to your learning, I will be glad, as you might be similar to me who was once confused in homeworks. However, ** please do not plagiarize **. Keep this in mind!
+If it helps to your learning, I will be glad, as you might be similar to me who was once confused in homeworks. However, **please do not plagiarize**. Keep this in mind!
 
