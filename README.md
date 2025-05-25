@@ -2,7 +2,9 @@
 
 - I’m currently studying in School of Software, Tsinghua University (THSS)  from 2022Fall
 
-- typical INTJ
+- As a typical INTJ, I prefer to work independently and enjoys solving complex problems.
+
+  
 
 声明:
 
