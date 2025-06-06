@@ -18,3 +18,11 @@ All the code is a record of my struggles with homeworks during countless late ni
 
 If it is helpful to you, I will be glad, as you might be similar to me who was once confused in homeworks. However, **please do not plagiarize, Keep this in mind!**
 
+## :eyes: ​Visitor's count 
+
+<p align="center"><img src="https://profile-counter.glitch.me/{likx22}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+
+
+## :star2: github stats
+
+ ![likx22's GitHub stats](https://github-readme-stats.vercel.app/api?username=likx22&count_private=true&show_icons=true)
